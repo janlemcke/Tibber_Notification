@@ -1,3 +1,6 @@
+
+<img src="https://github.com/janlemcke/Tibber_Notification/assets/12445789/6daa008d-ad02-4ffe-a327-d5e799dc01c3" alt="Thumbnail of tibber logo and notification." width="500" height="300">
+
 # Tibber Notification
 This repo has a Python script that works with the Tibber API to fetch and analyze electricity price data. It calculates the average electricity price for the day, finds the cheapest and most expensive hours for electricity usage, and sends a push notification with this info. 
 
