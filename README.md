@@ -21,7 +21,7 @@ First, you can watch my video where i explain every line of the code. If you are
 3. Run the script.
 
 # Support
-If you find this script helpful, feel free to use my tibber link to get 50€ off your next purchase from the tibber store.
+If you found this script helpful, feel free to use my tibber link to get 50€ off your next purchase from the tibber store.
 
 ---
 # Tibber-Benachrichtigung
