@@ -25,7 +25,7 @@ First, you can watch my video where i explain every line of the code. If you are
 3. Run the script.
 
 # Support
-If you found this script helpful, feel free to use my tibber link to get 50€ off your next purchase from the tibber store.
+If you found this script helpful, feel free to use my tibber link https://invite.tibber.com/n50qcssz to sign up to get 50€ off your next purchase from the tibber store.
 
 ---
 # Tibber-Benachrichtigung
@@ -51,4 +51,4 @@ Du kannst dir mein Video anschauen, in dem ich jede Zeile des Codes erkläre. We
 3. Führe das Skript aus.
 
 # Unterstützung
-Wenn du dieses Skript hilfreich findest, kannst du gerne meinen Tibber Link benutzen, um 50€ Rabatt auf deinen nächsten Einkauf im Tibber Shop zu erhalten.
+Wenn du dieses Skript hilfreich findest, kannst du gerne meinen Tibber Link (https://invite.tibber.com/n50qcssz) benutzen, um bei Vertragsabschluss 50€ Rabatt auf deinen nächsten Einkauf im Tibber Shop zu erhalten. Tibber liefert 100% Ökostrom und die Kündigungsfrist beträgt 2 Wochen.
