@@ -13,7 +13,7 @@ That's what we thought – and that's what we did. Welcome to an energy company 
 
 From tibber.com
 
-Tibber is an electricity provider that offers dynamic tariffs. You pay for what you use according to the hourly prices on the electricity exchange.
+Tibber is an eco-friendly electricity provider that offers dynamic tariffs. You pay for what you use according to the hourly prices on the electricity exchange.
 
 # Where can i find the API?
 Tibber offers a beginner friendly overview about possible queries and data to fetch. You can find more details here: https://developer.tibber.com/
